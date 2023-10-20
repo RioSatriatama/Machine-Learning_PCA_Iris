@@ -28,3 +28,15 @@ For documentation see the
 developer version or the most recent released
 <a href="https://scitools-iris.readthedocs.io/en/stable/">stable</a> version.
 </p>
+
+### Author
+
+**Rio Satriatama**
+
+* [github/RioSatriatama](https://github.com/RioSatriatama)
+* [instagram/riosatriatama02](https://www.instagram.com/riosatriatama02)
+
+### License
+
+© October 20 2023, [Rio Satriatama](https://github.com/RioSatriatama).
+Released under the [MIT License](LICENSE).
